@@ -6,7 +6,7 @@
 
 Dans Écho, chaque paire de cartes a **une forme, une couleur et une note de musique**. Les couleurs suivent la hauteur des notes, du rouge pour les graves au violet pour les aiguës : on mémorise avec les yeux… ou seulement avec les oreilles.
 
-🔗 **Démo :** [memory-echo.netlify.app](https://memory-echo.netlify.app/)
+🔗 **Démo :** [echo.projectp.fr](https://echo.projectp.fr/)
 
 ## Quatre jeux
 

@@ -6,7 +6,7 @@ export const DAILY = {
   level: 'moyen', // 8 paires
   mode: 'classique',
   firstDay: '2026-10-15', // défi n°1
-  url: 'https://memory-echo.netlify.app/#/defi',
+  url: 'https://echo.projectp.fr/#/defi',
 }
 
 // Date du jour au format AAAA-MM-JJ (heure locale : le défi change à minuit)
