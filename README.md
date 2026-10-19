@@ -8,6 +8,8 @@ Dans Écho, chaque paire de cartes a **une forme, une couleur et une note de mus
 
 🔗 **Démo :** [echo.projectp.fr](https://echo.projectp.fr/)
 
+📄 Ce qui a été construit, règle par règle : le [cahier des charges](CAHIER_DES_CHARGES.md).
+
 ## Quatre jeux
 
 ### 🎵 Memory musical
