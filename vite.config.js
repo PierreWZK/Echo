@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // Chemins relatifs : le site fonctionne aussi dans un sous-dossier
-  // (ex. https://30daysprojects.netlify.app/day-02-memory-game/)
+  // (ex. https://projectp.fr/day-02-memory-game/)
   base: './',
 })
