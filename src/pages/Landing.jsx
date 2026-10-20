@@ -219,7 +219,7 @@ export default function Landing() {
       </section>
 
       <footer className="footer container">
-        <span>Écho · Jour 02 du défi 30 jours, 30 projets</span>
+        <span>Écho · Jour 02 du défi <a href="https://projectp.fr/">30 jours, 30 projets</a></span>
         <span>Fait avec React · <a href="https://github.com/PierreWZK/Echo" target="_blank" rel="noopener">Code sur GitHub ↗</a></span>
       </footer>
     </div>
