@@ -1,12 +1,15 @@
 # Écho · Le memory qui se joue aussi à l'oreille
 
-> Jour 02 du défi **30 jours, 30 projets** · React et Vite
+🌐 **[echo.projectp.fr](https://echo.projectp.fr/)** · Jour 02 du défi **[30 jours, 30 projets](https://projectp.fr/)** · [Dépôt du défi](https://github.com/PierreWZK/30DaysProjects)
 
-![Page d'accueil d'Écho](docs/preview.png)
+Dans Écho, chaque paire de cartes a **une forme, une couleur et une note de musique**. Les couleurs suivent la hauteur des notes, du rouge pour les graves au violet pour les aiguës : on mémorise avec les yeux… ou seulement avec les oreilles. React et Vite.
 
-Dans Écho, chaque paire de cartes a **une forme, une couleur et une note de musique**. Les couleurs suivent la hauteur des notes, du rouge pour les graves au violet pour les aiguës : on mémorise avec les yeux… ou seulement avec les oreilles.
+[![Page d'accueil d'Écho : le titre et une grille de cartes fermées](docs/preview-accueil.png)](https://echo.projectp.fr/)
 
-🔗 **Démo :** [echo.projectp.fr](https://echo.projectp.fr/)
+<p align="center">
+  <img src="docs/preview-jeu.png" alt="Le memory en niveau Facile : chronomètre, coups, paires et score au-dessus de la grille" width="72%">
+  <img src="docs/preview-mobile.png" alt="Écho sur téléphone, page d'accueil" width="25%">
+</p>
 
 📄 Ce qui a été construit, règle par règle : le [cahier des charges](CAHIER_DES_CHARGES.md).
 
@@ -65,3 +68,14 @@ Pour la version de production : `npm run build` crée le dossier `dist/`. Les ch
 ## Technologies
 
 React 19, Vite, Web Audio API. Police Outfit (Google Fonts).
+
+---
+
+## Le défi 30 jours, 30 projets
+
+Un projet complet par jour pendant 30 jours, chacun en ligne sur son propre sous-domaine.
+
+- 🗂️ **Tous les projets** : [projectp.fr](https://projectp.fr/)
+- 💻 **Le dépôt du défi** : [github.com/PierreWZK/30DaysProjects](https://github.com/PierreWZK/30DaysProjects)
+- ➡️ **Jour précédent** : [Nuance, générateur de palettes](https://nuance.projectp.fr/)
+- ➡️ **Jour suivant** : [Sursaut, jeu de réflexes](https://sursaut.projectp.fr/)
